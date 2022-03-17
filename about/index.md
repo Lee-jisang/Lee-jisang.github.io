@@ -3,8 +3,6 @@ layout: page
 type: about
 ---
 
-Building...
-
 <!--
 ---
 layout: about
@@ -19,7 +17,7 @@ order: 1
 <span style=
 "font-size:170%;
 font-weight:bold">
-전은성
+이지상
 </span>
 </center>
 
@@ -31,11 +29,11 @@ font-weight:bold">
 
 ## Personal Data
 ---
-> 1998.12.21 대한민국,인천광역시,서구 출생
+> 1997.01.20 대한민국,서울특별시,서대문구
 
-> 연락처: jjjes758@naver.com
+> 연락처: dlwltkd2003@naver.com
 
-> Github : <a href="https://github.com/JeonEunseoung">https://github.com/JeonEunseoung</a>
+> Github : <a href="https://github.com/lee-jisang">https://github.com/lee-jisang</a>
 
 
 ## Education
@@ -53,11 +51,6 @@ font-weight:bold">
     + JSP
     + SPRING
 
-* Machine Learning / Deep Learning
-    + GAN
-    + RNN
-    + CNN
-
 ## Project
 ---
 
@@ -74,7 +67,7 @@ font-weight:bold">
 
 ## Skills and Certification
 ---
--Language : Python, C/C++, JAVA
+-Language : Python, C++, JAVA
 
 
 
