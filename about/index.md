@@ -3,20 +3,14 @@ layout: page
 type: about
 ---
 
-<img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+
 <center>
 <span style=
 "font-size:170%;
 font-weight:bold">
-이지상
+Hi There! im Jisang <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 </span>
 </center>
-
-<center>MAJOR : COMPUTER EENGINEERING</center>
-
-<center>Seokyeong University</center>
-
-<center>124, Seokyeong-ro, Seongbuk-gu, Seoul, Republic of Korea</center>
 
 ## Personal Data
 ---
@@ -50,7 +44,9 @@ font-weight:bold">
 
 ## Awards
 ---
--.
+-2021 한이음 공모전 자율형 부문(open eyes) 입선
+-한국 지능 시스템 학회 우수 논문상 수상
+
 ## Work Experiences
 ---
 -Seokyeong Univ
