@@ -3,9 +3,9 @@ title: 브루트 포스
 categories:
   - Algorithm
 excerpt: "브루트 포스 알고리즘을 공부해보자:)"
-date: 2023-03-17
+date: 2022-03-17
 tags:
-- brute force
+- bruteforce
 
 ---
 
