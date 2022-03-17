@@ -12,16 +12,14 @@ tags:
 # 개요 
 
 
-언어를 처음 공부할 때처럼 그언어의 규칙, 특징, 간단한 문법에 대해서 알아보겠다.
-테스트
-테스트
+Brute force에 대해서 알아보자!
 
 <br />
 <br />
 
 ---
 
-# 스위프트란(apple developer guide)
+# 브루트 포스란(apple developer guide)
 
 ---
 
