@@ -3,15 +3,6 @@ layout: page
 type: about
 ---
 
-<!--
----
-layout: about
-title: Portfolio
-menu: true
-order: 1
----
--->
-
 * * *
 <center>
 <span style=
