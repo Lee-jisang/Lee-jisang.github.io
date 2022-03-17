@@ -15,9 +15,9 @@ date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url:
+url: https://lee-jisang.github.io
 baseurl:
-permalink: pretty
+permalink: /:year/:month/:day/:title/
 
 # Pagination
 paginate: 10
@@ -93,7 +93,7 @@ since: 2021
 authoricon: 
 
 # Footer `powered-by` and `theme-info` copyright
-copyright: false
+copyright: true
 
 # ---------------------------------------------------------------
 # SEO Settings
@@ -105,7 +105,7 @@ copyright: false
 canonical: true
 
 # Change headers hierarchy on site-subtitle (will be main site description) and on all post/pages titles for better SEO-optimization.
-seo: false
+seo: true
 
 # If true, will add site-subtitle to index page, added in jekyll config.
 # subtitle: Subtitle
@@ -273,10 +273,10 @@ sidebar:
   offset_float: 0
 
   # Back to top in sidebar
-  b2t: true
+  b2t: false
 
   # Scroll percent label in b2t button
-  scrollpercent: true
+  scrollpercent: false
 
 
 # Blog rolls

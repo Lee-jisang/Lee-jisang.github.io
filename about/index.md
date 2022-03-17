@@ -4,19 +4,20 @@ type: about
 ---
 
 
-<center>
+
+<br/>
 <span style=
 "font-size:170%;
 font-weight:bold">
-Hi There! im Jisang <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
-</span>
-</center>
+Hi There! im Jisang 👋
+</span> 
+
 
 ## Personal Data
 ---
-> 1997.01.20 대한민국,서울특별시,서대문구
+> Birth : 1997.01.20 대한민국,서울특별시,서대문구
 
-> 연락처: dlwltkd2003@naver.com
+> E-mail : dlwltkd2003@naver.com
 
 > Github : <a href="https://github.com/lee-jisang">https://github.com/lee-jisang</a>
 
@@ -27,33 +28,32 @@ Hi There! im Jisang <img width="30px" src="https://media.tenor.com/images/3b388f
 
 > 서경대학교 컴퓨터공학과 학부 연구생 (이양선 교수님 연구실)
 
+## Skills and Certification
+---
+> Language skill : Python, C++, JAVA
 
-## Research Interest
+> Certification : 정보처리기사 , sqld
+
+## Interest
 ---
 
-* WEB
-    + HTML
-    + CSS
-    + JSP
-    + SPRING
+> Front End : React, Html, CSS, Java Script
+
+> Back End : Spring, Django
 
 ## Project
 ---
 
-* **동국대학교 PLASS-NIA 인공지능학습데이터구축사업(2021)**
+> 한이음 공모전 딥러닝을 이용한 졸음방지 웹사이트(2021)
+
+> 동국대학교 PLASS-NIA 인공지능학습데이터구축사업(2021)
 
 ## Awards
 ---
--2021 한이음 공모전 자율형 부문(open eyes) 입선
--한국 지능 시스템 학회 우수 논문상 수상
+> 2021 한이음 공모전 자율형 부문(open eyes) 입선
 
-## Work Experiences
----
--Seokyeong Univ
+> 한국 지능 시스템 학회 우수 논문상 수상
 
-## Skills and Certification
----
--Language : Python, C++, JAVA
 
 
 
