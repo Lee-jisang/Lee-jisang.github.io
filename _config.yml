@@ -1,4 +1,3 @@
-repository: Lee-jisang/Lee-jisang.github.io
 # ---------------------------------------------------------------
 # Jekyll & Global Configuration
 ## Docs: https://jekyllrb.com/docs/configuration/
@@ -10,12 +9,12 @@ subtitle: 'study, tech, etc..'
 description: 'study, tech, etc..'
 author: Lee Ji Sang
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: ko
+language: en
 date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: https://lee-jisang.github.io
+url: 
 baseurl:
 permalink: pretty
 
@@ -566,7 +565,7 @@ local_search:
   # if manual, trigger search by pressing enter key or search button
   trigger: auto 
   # show top n results per article, show all results by setting to -1
-  top_n_per_article: 5
+  top_n_per_article: 1
 
 # External URL with BASE64 encrypt & decrypt
 # Usage: {% exturl text url "title" %}
