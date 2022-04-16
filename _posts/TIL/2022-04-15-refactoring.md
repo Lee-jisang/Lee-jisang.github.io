@@ -1,9 +1,9 @@
 ---
-title: [[TIL]] 리팩토링
+title: "[TIL] 리팩토링"
 categories: 
   - TIL
 excerpt: 
-date: 2022-04-16
+date: 2022-04-15
 tags:
 - 리팩토링
 ---
