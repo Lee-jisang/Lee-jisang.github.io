@@ -64,5 +64,5 @@ brute: 무식한, force: 힘   무식한 힘으로 해석할 수 있다.
 > # 문제 예시
 
 
-[2231_분해합](https://lee-jisang.github.io/2022/04/13/2231%EB%B6%84%ED%95%B4%ED%95%A9/)<br />
+[2231_분해합](https://lee-jisang.github.io/baekjoon/2022/04/13/2231%EB%B6%84%ED%95%B4%ED%95%A9/)<br />
 
