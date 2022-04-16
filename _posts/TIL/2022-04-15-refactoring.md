@@ -2,7 +2,7 @@
 title: "[TIL] 리팩토링"
 categories: 
   - TIL
-excerpt: 
+excerpt: 리팩토링이 뭘까
 date: 2022-04-15
 tags:
 - 리팩토링
