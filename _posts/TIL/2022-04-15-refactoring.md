@@ -1,5 +1,5 @@
 ---
-title: [TIL] 리팩토링
+title: [[TIL]] 리팩토링
 categories: 
   - TIL
 excerpt: 
