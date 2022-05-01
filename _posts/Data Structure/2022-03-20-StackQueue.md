@@ -18,7 +18,7 @@ tags:
 ## 개념
 
 ![image](https://user-images.githubusercontent.com/76837780/166146703-e6be9ce0-fb8f-4b0d-85b7-eccf957485f2.png)
-</br>
+
 
 스택(stack)이란 **어떠한 자료를 쌓아서 올려놓은 형태의 자료구조**입니다.<br />
 책상에 쌓여있는 책들이나 싱크대의 접시를 예시로 들 수 있습니다.
@@ -55,7 +55,7 @@ tags:
 ## 개념
 
 ![image](https://user-images.githubusercontent.com/76837780/166146901-e923a8f6-9adf-4ed6-99be-e31f06b97238.png)
-</br>
+
 
 게임을 하시는 분이시라면 "큐가 빨리 안잡히네..." 라는 말의 의미를 아실 겁니다.</br>
 큐란 쉽게말해 데이터들이 일렬로 줄 서서 기다리는 것을 뜻하는데,</br>
