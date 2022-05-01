@@ -81,3 +81,16 @@ int main() {
 	return 2;
 }
 ```
+
+C나 Java같은 기존 정적타입 언어에선 위처럼 변수나 함수를 선언했다면
+JavaScript에서는 아래처럼 var이나 function이라는 키워드를 사용하며, 타입을 명시하지 않습니다.
+
+```javascript
+var a = 10;
+var b = 'K';
+
+function main() {
+	return 2;
+}
+```
+
