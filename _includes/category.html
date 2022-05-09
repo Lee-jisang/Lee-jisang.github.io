@@ -12,7 +12,7 @@
   {% for cat_posts in site.categories %}
     {% assign cat = cat_posts[0] | url_encode | replace: '+', '%20' %}
     {% assign posts = cat_posts[1] %}
-asdfsadf
+
     {% for post in posts %}
       {% if paginate > 0 %}
         {% assign page_num = forloop.index0 | divided_by: paginate | plus: 1 %}
@@ -21,7 +21,7 @@ asdfsadf
           {% assign route = route | append: paginate_path | replace: ':num', page_num %}
         {% endif %}
       {% endif %}
-asdfsadf
+
       {% include _macro/post-collapse.html %}
     {% endfor %}
   {% endfor %}
