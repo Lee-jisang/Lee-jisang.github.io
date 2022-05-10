@@ -66,4 +66,4 @@ brute: 무식한, force: 힘   무식한 힘으로 해석할 수 있다.
 
 [2231_분해합](https://lee-jisang.github.io/baekjoon/2022/04/13/2231%EB%B6%84%ED%95%B4%ED%95%A9/)<br />
 
-[2798_블랙잭](https://lee-jisang.github.io/baekjoon/2022/04/13/2231%EB%B6%84%ED%95%B4%ED%95%A9/)<br />
+[2798_블랙잭](https://lee-jisang.github.io/baekjoon/2022/04/18/2798%EB%B8%94%EB%9E%99%EC%9E%AD/)<br />
