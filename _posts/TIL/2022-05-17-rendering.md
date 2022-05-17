@@ -3,7 +3,7 @@ title: "[TIL] 렌더링"
 categories: 
   - TIL
 excerpt: 렌더링이 뭘까
-date: 2022-05-18
+date: 2022-05-17
 tags:
 - 렌더링
 ---
