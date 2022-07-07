@@ -1,11 +1,12 @@
 ---
-title: [TIL]C++ Map을 value 기준으로 정렬하기
-date: 2022-07-06
-categories:
-- TIL
-
+title: "[TIL] C++ map 정렬"
+categories: 
+  - TIL
+excerpt: map을 정렬하려면 일단 vector로 변환!
+date: 2022-07-01
 tags:
 - map
+- c++
 - sort
 ---
 
