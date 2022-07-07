@@ -1,5 +1,5 @@
 ---
-title: [TIL] C++ Map을 value 기준으로 정렬하기
+title: [TIL]C++ Map을 value 기준으로 정렬하기
 date: 2022-07-06
 categories:
 - TIL
@@ -7,10 +7,6 @@ categories:
 tags:
 - map
 - sort
-
-# photos: 
-# - 주소
-
 ---
 
 ## map을 key값이 아닌 value 기준으로 정렬해봅니다.
