@@ -16,13 +16,8 @@ tags:
 ---
 
 [이쪽으로 오세요!](https://github.com/Lee-jisang/FE-study/blob/main/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84/README.md)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+- 글이 왜 블로그에 
 
 test
  
