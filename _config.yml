@@ -417,7 +417,7 @@ gitalk:
   repo: Lee-jisang.github.io
   owner: Lee-jisang
   admin: [Lee-jisang]
-  id: location.pathname    
+  id: md5(location.pathname)    
   distractionFreeMode: false
 
 # Baidu Share
