@@ -51,13 +51,16 @@ kramdown:
 # Default Attributes
 ## Docs: https://jekyllrb.com/docs/configuration/#front-matter-defaults
 defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
+  - scope:
+      path: "_posts"
+      type: posts
     values:
-      layout: "post"
-      comments: true
+      layout: post
+      comment: true   
+      comment:
+        provider:
+          utterances:
+            theme : "github-light"
 
 # Atom feed
 feed:
