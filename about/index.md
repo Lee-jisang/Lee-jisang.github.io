@@ -12,8 +12,6 @@ font-weight:bold">
 Hi There! im Jisang 👋
 </span> 
 
-![image](https://user-images.githubusercontent.com/76837780/179161929-e915c7a7-f9b5-40e7-bc2a-c6e1f2e2bebe.png)
-
 ## Personal Data
 ---
 > Birth : 1997.01.20 대한민국,서울특별시,서대문구
