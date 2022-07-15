@@ -51,12 +51,13 @@ kramdown:
 # Default Attributes
 ## Docs: https://jekyllrb.com/docs/configuration/#front-matter-defaults
 defaults:
-  - scope:
+  -
+    scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-      comments: true 
+      comments: true
       
 
 # Atom feed
@@ -89,7 +90,7 @@ rss: false
 since: 2021
 
 # icon between year and author @Footer
-authoricon:
+authoricon: code
 
 # Footer `powered-by` and `theme-info` copyright
 copyright: true
@@ -275,7 +276,7 @@ sidebar:
   b2t: false
 
   # Scroll percent label in b2t button
-  scrollpercent: false
+  scrollpercent: true
 
 
 # Blog rolls
