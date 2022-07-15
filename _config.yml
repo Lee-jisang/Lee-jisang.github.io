@@ -413,9 +413,9 @@ gitalk:
   enable: true
   clientID: a70370dc93a4c090babf
   clientSecret: 3f6adbd5d122b2bf3bafd11f5e74455ab7ee88f7
-  repo: lee-jisang.github.io
-  owner: lee-jisang
-  admin: [lee-jisang]
+  repo: Lee-jisang.github.io
+  owner: Lee-jisang
+  admin: [Lee-jisang]
 
 # Baidu Share
 # Available value:
