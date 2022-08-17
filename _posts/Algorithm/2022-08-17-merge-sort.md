@@ -39,13 +39,65 @@ tags:
   - 추가적인 리스트가 필요하다.
   - 각 부분 배열을 정렬할 때도 합병 정렬을 순환적으로 호출하여 적용한다.
   - 합병 정렬에서 실제로 정렬이 이루어지는 시점은 2개의 리스트를 합병(merge)하는 단계 이다.
+ ![image](https://user-images.githubusercontent.com/76837780/185044560-e76c40e4-1195-47f0-8e27-547215412cb7.png)
 
-![image](https://user-images.githubusercontent.com/76837780/185044560-e76c40e4-1195-47f0-8e27-547215412cb7.png)
 
 [참조](https://gmlwjd9405.github.io/2018/05/08/algorithm-merge-sort.html)
 
+
+
+# 과정
+
+- 배열에 27, 10, 12, 20, 25, 13, 15, 22이 저장되어 있다고 가정하고 자료를 오름차순으로 정렬해 보자.
+- 2개의 정렬된 리스트를 합병(merge)하는 과정
+  1. 2개의 리스트의 값들을 처음부터 하나씩 비교하여 두 개의 리스트의 값 중에서 더 작은 값을 새로운 리스트(sorted)로 옮긴다.
+  2. 둘 중에서 하나가 끝날 때까지 이 과정을 되풀이한다.
+  3. 만약 둘 중에서 하나의 리스트가 먼저 끝나게 되면 나머지 리스트의 값들을 전부 새로운 리스트(sorted)로 복사한다.
+  4. 새로운 리스트(sorted)를 원래의 리스트(list)로 옮긴다.
+ ![image](https://user-images.githubusercontent.com/76837780/185045014-7ed84588-ad90-4c56-b364-b7d91c2a56b6.png)
+
+
+
 ## 코드 구현
 
-```c++
+- [백준 11728. 배열 합치기](https://www.acmicpc.net/problem/11728)
 
+```c++
+#include <iostream>
+using namespace std;
+
+int main() {
+    ios_base::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    int n, m;
+    int a_index = 0, b_index = 0;
+
+    cin >> n >> m;
+
+    int a[1000001], b[1000001];
+
+    for (int i = 0; i < n; i++) {
+        cin >> a[i];
+    }
+    for (int i = 0; i < m; i++) {
+        cin >> b[i];
+    }
+    //merge_sort 합병정렬
+    while (a_index < n && b_index < m) {
+        if (a[a_index] <= b[b_index]) {
+            cout << a[a_index++] << " ";
+        }
+        else {
+            cout << b[b_index++] << " ";
+        }
+    }
+    //두개의 배열중 한배열이 비었을때 나머지 한배열 출력
+    while (a_index < n) {
+        cout << a[a_index++] << " ";
+    }
+    while (b_index < m) {
+        cout << b[b_index++] << " ";
+    }
+}
 ```
