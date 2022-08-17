@@ -42,11 +42,8 @@ tags:
  ![image](https://user-images.githubusercontent.com/76837780/185044560-e76c40e4-1195-47f0-8e27-547215412cb7.png)
 
 
-[참조](https://gmlwjd9405.github.io/2018/05/08/algorithm-merge-sort.html)
 
-
-
-# 과정
+# 예제
 
 - 배열에 27, 10, 12, 20, 25, 13, 15, 22이 저장되어 있다고 가정하고 자료를 오름차순으로 정렬해 보자.
 - 2개의 정렬된 리스트를 합병(merge)하는 과정
@@ -57,8 +54,9 @@ tags:
  ![image](https://user-images.githubusercontent.com/76837780/185045014-7ed84588-ad90-4c56-b364-b7d91c2a56b6.png)
 
 
+[참조](https://gmlwjd9405.github.io/2018/05/08/algorithm-merge-sort.html)
 
-## 코드 구현
+# 문제예시
 
 - [백준 11728. 배열 합치기](https://www.acmicpc.net/problem/11728)
 
